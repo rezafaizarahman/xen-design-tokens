@@ -26,15 +26,15 @@
   --xen-gray-700: #7a7a7a;
   --xen-gray-800: #5c5c5c;
   --xen-gray-900: #3d3d3d;
-  --xen-black-100: #ececec;
-  --xen-black-200: #cfcfcf;
-  --xen-black-300: #b1b1b1;
-  --xen-black-400: #777777;
-  --xen-black-500: #3d3d3d;
-  --xen-black-600: #373737;
-  --xen-black-700: #252525;
-  --xen-black-800: #1b1b1b;
-  --xen-black-900: #121212;
+  --xen-dark-grey-100: #ececec;
+  --xen-dark-grey-200: #cfcfcf;
+  --xen-dark-grey-300: #b1b1b1;
+  --xen-dark-grey-400: #777777;
+  --xen-dark-grey-500: #3d3d3d;
+  --xen-dark-grey-600: #373737;
+  --xen-dark-grey-700: #252525;
+  --xen-dark-grey-800: #1b1b1b;
+  --xen-dark-grey-900: #121212;
   --xen-yellow-100: #fff9e7;
   --xen-yellow-200: #ffefc2;
   --xen-yellow-300: #ffe59d;
@@ -107,4 +107,6 @@
   --xen-teal-700: #267077;
   --xen-teal-800: #1d5459;
   --xen-teal-900: #13383b;
+  --xen-white: #ffffff;
+  --xen-black: #000000;
       }
