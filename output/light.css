@@ -1,7 +1,7 @@
 .light-theme {
           --bg-default: #ffffff;
   --bg-subtle: #f2f2f2;
-  --bg-disabled: #cfcfcf;
+  --bg-disabled: #f2f2f2;
   --bg-inverse: #252525;
   --bg-interactive: #ecf1ff;
   --bg-informative: #ecfaff;
