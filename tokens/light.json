@@ -1,1 +1,116 @@
-{}
+{
+  "bg": {
+    "default": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "subtle": {
+      "value": "#f2f2f2",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "#cfcfcf",
+      "type": "color"
+    },
+    "inverse": {
+      "value": "#252525",
+      "type": "color"
+    },
+    "interactive": {
+      "value": "#ecf1ff",
+      "type": "color"
+    },
+    "informative": {
+      "value": "#ecfaff",
+      "type": "color"
+    },
+    "success": {
+      "value": "#e6faf5",
+      "type": "color"
+    },
+    "warning": {
+      "value": "#fff9e7",
+      "type": "color"
+    },
+    "critical": {
+      "value": "#fdedee",
+      "type": "color"
+    }
+  },
+  "fg": {
+    "default": {
+      "value": "#252525",
+      "type": "color"
+    },
+    "subtle": {
+      "value": "#777777",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "#b1b1b1",
+      "type": "color"
+    },
+    "inverse": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "interactive": {
+      "value": "#294599",
+      "type": "color"
+    },
+    "informative": {
+      "value": "#1f5e73",
+      "type": "color"
+    },
+    "success": {
+      "value": "#007c5c",
+      "type": "color"
+    },
+    "warning": {
+      "value": "#735605",
+      "type": "color"
+    },
+    "critical": {
+      "value": "#8b2b33",
+      "type": "color"
+    }
+  },
+  "border": {
+    "default": {
+      "value": "#b1b1b1",
+      "type": "color"
+    },
+    "subtle": {
+      "value": "#cccccc",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "#777777",
+      "type": "color"
+    },
+    "inverse": {
+      "value": "#7a7a7a",
+      "type": "color"
+    },
+    "interactive": {
+      "value": "#b5c7ff",
+      "type": "color"
+    },
+    "informative": {
+      "value": "#b5ecff",
+      "type": "color"
+    },
+    "success": {
+      "value": "#99ecd6",
+      "type": "color"
+    },
+    "warning": {
+      "value": "#ffe59d",
+      "type": "color"
+    },
+    "critical": {
+      "value": "#f6b6bb",
+      "type": "color"
+    }
+  }
+}
