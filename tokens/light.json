@@ -55,7 +55,7 @@
       "type": "color"
     },
     "interactive": {
-      "value": "#294599",
+      "value": "#4573ff",
       "type": "color"
     },
     "informative": {
@@ -116,7 +116,7 @@
   "state": {
     "focused": {
       "value": {
-        "color": "#2945991a",
+        "color": "#4573ff1a",
         "type": "dropShadow",
         "x": 0,
         "y": 0,
