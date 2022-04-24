@@ -59,7 +59,7 @@
       "type": "color"
     },
     "informative": {
-      "value": "#1f5e73",
+      "value": "#297d99",
       "type": "color"
     },
     "success": {
@@ -67,11 +67,11 @@
       "type": "color"
     },
     "warning": {
-      "value": "#735605",
+      "value": "#997207",
       "type": "color"
     },
     "critical": {
-      "value": "#8b2b33",
+      "value": "#d1414d",
       "type": "color"
     }
   },
@@ -127,7 +127,7 @@
     },
     "error": {
       "value": {
-        "color": "#8b2b331a",
+        "color": "#d1414d1a",
         "type": "dropShadow",
         "x": 0,
         "y": 0,
