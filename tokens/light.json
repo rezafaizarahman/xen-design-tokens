@@ -112,5 +112,29 @@
       "value": "#f6b6bb",
       "type": "color"
     }
+  },
+  "state": {
+    "focused": {
+      "value": {
+        "color": "#2945991a",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 0,
+        "spread": 4
+      },
+      "type": "boxShadow"
+    },
+    "error": {
+      "value": {
+        "color": "#8b2b331a",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 0,
+        "spread": 4
+      },
+      "type": "boxShadow"
+    }
   }
 }

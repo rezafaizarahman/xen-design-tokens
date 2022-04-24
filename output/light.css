@@ -26,4 +26,6 @@
   --border-success: #99ecd6;
   --border-warning: #ffe59d;
   --border-critical: #f6b6bb;
+  --state-focused: [object Object];
+  --state-error: [object Object];
       }
