@@ -1,5 +1,14 @@
 .light-theme {
-          --bg-default: #ffffff;
+          --fg-default: #252525;
+  --fg-subtle: #777777;
+  --fg-disabled: #b1b1b1;
+  --fg-emphasis: #ffffff;
+  --fg-interactive: #4573ff;
+  --fg-informative: #297d99;
+  --fg-success: #007c5c;
+  --fg-warning: #997207;
+  --fg-critical: #d1414d;
+  --bg-default: #ffffff;
   --bg-subtle: #f2f2f2;
   --bg-disabled: #ebebeb;
   --bg-emphasis: #252525;
@@ -13,15 +22,6 @@
   --bg-success-emphasis: #00cf99;
   --bg-warning-emphasis: #ffbe0b;
   --bg-critical-emphasis: #e84855;
-  --fg-default: #252525;
-  --fg-subtle: #777777;
-  --fg-disabled: #b1b1b1;
-  --fg-emphasis: #ffffff;
-  --fg-interactive: #4573ff;
-  --fg-informative: #297d99;
-  --fg-success: #007c5c;
-  --fg-warning: #997207;
-  --fg-critical: #d1414d;
   --border-default: #b1b1b1;
   --border-subtle: #cccccc;
   --border-disabled: #777777;

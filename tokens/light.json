@@ -1,4 +1,42 @@
 {
+  "fg": {
+    "default": {
+      "value": "#252525",
+      "type": "color"
+    },
+    "subtle": {
+      "value": "#777777",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "#b1b1b1",
+      "type": "color"
+    },
+    "emphasis": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "interactive": {
+      "value": "#4573ff",
+      "type": "color"
+    },
+    "informative": {
+      "value": "#297d99",
+      "type": "color"
+    },
+    "success": {
+      "value": "#007c5c",
+      "type": "color"
+    },
+    "warning": {
+      "value": "#997207",
+      "type": "color"
+    },
+    "critical": {
+      "value": "#d1414d",
+      "type": "color"
+    }
+  },
   "bg": {
     "default": {
       "value": "#ffffff",
@@ -54,44 +92,6 @@
     },
     "critical-emphasis": {
       "value": "#e84855",
-      "type": "color"
-    }
-  },
-  "fg": {
-    "default": {
-      "value": "#252525",
-      "type": "color"
-    },
-    "subtle": {
-      "value": "#777777",
-      "type": "color"
-    },
-    "disabled": {
-      "value": "#b1b1b1",
-      "type": "color"
-    },
-    "emphasis": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "interactive": {
-      "value": "#4573ff",
-      "type": "color"
-    },
-    "informative": {
-      "value": "#297d99",
-      "type": "color"
-    },
-    "success": {
-      "value": "#007c5c",
-      "type": "color"
-    },
-    "warning": {
-      "value": "#997207",
-      "type": "color"
-    },
-    "critical": {
-      "value": "#d1414d",
       "type": "color"
     }
   },
