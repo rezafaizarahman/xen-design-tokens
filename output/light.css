@@ -2,16 +2,21 @@
           --bg-default: #ffffff;
   --bg-subtle: #f2f2f2;
   --bg-disabled: #ebebeb;
-  --bg-inverse: #252525;
+  --bg-emphasis: #252525;
   --bg-interactive: #ecf1ff;
   --bg-informative: #ecfaff;
   --bg-success: #e6faf5;
   --bg-warning: #fff9e7;
   --bg-critical: #fdedee;
+  --bg-interactive-emphasis: #4573ff;
+  --bg-informative-emphasis: #45d0ff;
+  --bg-success-emphasis: #00cf99;
+  --bg-warning-emphasis: #ffbe0b;
+  --bg-critical-emphasis: #e84855;
   --fg-default: #252525;
   --fg-subtle: #777777;
   --fg-disabled: #b1b1b1;
-  --fg-inverse: #ffffff;
+  --fg-emphasis: #ffffff;
   --fg-interactive: #4573ff;
   --fg-informative: #297d99;
   --fg-success: #007c5c;
@@ -26,6 +31,11 @@
   --border-success: #99ecd6;
   --border-warning: #ffe59d;
   --border-critical: #f6b6bb;
-  --state-focused: [object Object];
-  --state-error: [object Object];
+  --border-interactive-emphasis: #4573ff;
+  --border-informative-emphasis: #45d0ff;
+  --border-success-emphasis: #00cf99;
+  --border-warning-emphasis: #ffbe0b;
+  --border-critical-emphasis: #e84855;
+  --shadow-focused: [object Object];
+  --shadow-error: [object Object];
       }

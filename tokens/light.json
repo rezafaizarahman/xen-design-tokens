@@ -12,7 +12,7 @@
       "value": "#ebebeb",
       "type": "color"
     },
-    "inverse": {
+    "emphasis": {
       "value": "#252525",
       "type": "color"
     },
@@ -35,6 +35,26 @@
     "critical": {
       "value": "#fdedee",
       "type": "color"
+    },
+    "interactive-emphasis": {
+      "value": "#4573ff",
+      "type": "color"
+    },
+    "informative-emphasis": {
+      "value": "#45d0ff",
+      "type": "color"
+    },
+    "success-emphasis": {
+      "value": "#00cf99",
+      "type": "color"
+    },
+    "warning-emphasis": {
+      "value": "#ffbe0b",
+      "type": "color"
+    },
+    "critical-emphasis": {
+      "value": "#e84855",
+      "type": "color"
     }
   },
   "fg": {
@@ -50,7 +70,7 @@
       "value": "#b1b1b1",
       "type": "color"
     },
-    "inverse": {
+    "emphasis": {
       "value": "#ffffff",
       "type": "color"
     },
@@ -111,9 +131,29 @@
     "critical": {
       "value": "#f6b6bb",
       "type": "color"
+    },
+    "interactive-emphasis": {
+      "value": "#4573ff",
+      "type": "color"
+    },
+    "informative-emphasis": {
+      "value": "#45d0ff",
+      "type": "color"
+    },
+    "success-emphasis": {
+      "value": "#00cf99",
+      "type": "color"
+    },
+    "warning-emphasis": {
+      "value": "#ffbe0b",
+      "type": "color"
+    },
+    "critical-emphasis": {
+      "value": "#e84855",
+      "type": "color"
     }
   },
-  "state": {
+  "shadow": {
     "focused": {
       "value": {
         "color": "#4573ff1a",
