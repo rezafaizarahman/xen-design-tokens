@@ -109,4 +109,21 @@
   --xen-teal-900: #13383b;
   --xen-white: #ffffff;
   --xen-black: #000000;
+  --font-families-open-sans: Open Sans;
+  --line-heights-0: 56;
+  --line-heights-1: 48;
+  --line-heights-2: 40;
+  --font-weights-open-sans-0: SemiBold;
+  --font-size-0: 30px;
+  --font-size-1: 38px;
+  --font-size-2: 46px;
+  --letter-spacing-0: 0;
+  --letter-spacing-1: 0.25;
+  --letter-spacing-2: 0.15;
+  --paragraph-spacing-0: 0;
+  --heading-1: [object Object];
+  --heading-2: [object Object];
+  --heading-3: [object Object];
+  --text-case-none: none;
+  --text-decoration-none: none;
       }

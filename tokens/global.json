@@ -550,5 +550,116 @@
       "type": "color",
       "description": "000000"
     }
+  },
+  "fontFamilies": {
+    "open-sans": {
+      "value": "Open Sans",
+      "type": "fontFamilies"
+    }
+  },
+  "lineHeights": {
+    "0": {
+      "value": 56,
+      "type": "lineHeights"
+    },
+    "1": {
+      "value": 48,
+      "type": "lineHeights"
+    },
+    "2": {
+      "value": 40,
+      "type": "lineHeights"
+    }
+  },
+  "fontWeights": {
+    "open-sans-0": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    }
+  },
+  "fontSize": {
+    "0": {
+      "value": 30,
+      "type": "fontSizes"
+    },
+    "1": {
+      "value": 38,
+      "type": "fontSizes"
+    },
+    "2": {
+      "value": 46,
+      "type": "fontSizes"
+    }
+  },
+  "letterSpacing": {
+    "0": {
+      "value": 0,
+      "type": "letterSpacing"
+    },
+    "1": {
+      "value": 0.25,
+      "type": "letterSpacing"
+    },
+    "2": {
+      "value": 0.15,
+      "type": "letterSpacing"
+    }
+  },
+  "paragraphSpacing": {
+    "0": {
+      "value": 0,
+      "type": "paragraphSpacing"
+    }
+  },
+  "Heading 1": {
+    "value": {
+      "fontFamily": "Open Sans",
+      "fontWeight": "SemiBold",
+      "lineHeight": 56,
+      "fontSize": 46,
+      "letterSpacing": 0,
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Heading 2": {
+    "value": {
+      "fontFamily": "Open Sans",
+      "fontWeight": "SemiBold",
+      "lineHeight": 48,
+      "fontSize": 38,
+      "letterSpacing": 0.25,
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "Heading 3": {
+    "value": {
+      "fontFamily": "Open Sans",
+      "fontWeight": "SemiBold",
+      "lineHeight": 40,
+      "fontSize": 30,
+      "letterSpacing": 0.15,
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "type": "typography"
+  },
+  "textCase": {
+    "none": {
+      "value": "none",
+      "type": "textCase"
+    }
+  },
+  "textDecoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    }
   }
 }
